@@ -7,6 +7,13 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test3Application {
 
 	public static void main(String[] args) {
+		String name="ney";
+		int num=21;
+		long="29172113"
+		String name1="mike";
+		String name2="cool";
+		int x=21;
+		boolean y=true;
 		int xx=21;
 		int yy=99;
 		int xy=95;
