@@ -7,6 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test3Application {
 
 	public static void main(String[] args) {
+		int xx=21;
+		int yy=99;
+		int xy=95;
+		int yx=24;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
