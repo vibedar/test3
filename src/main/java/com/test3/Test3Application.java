@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test3Application {
 
 	public static void main(String[] args) {
-		String name="ney"
+		String name="ney";
+		String name1="mike";
+		String name2="cool";
 		SpringApplication.run(Test3Application.class, args);
 	}
 
