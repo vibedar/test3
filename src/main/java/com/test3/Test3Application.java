@@ -14,6 +14,10 @@ public class Test3Application {
 		String name2="cool";
 		int x=21;
 		boolean y=true;
+		int xx=21;
+		int yy=99;
+		int xy=95;
+		int yx=24;
 		SpringApplication.run(Test3Application.class, args);
 	}
 
